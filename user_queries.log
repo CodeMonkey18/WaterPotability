@@ -1,0 +1,21 @@
+2025-01-04 21:12:20,636 - User input: {'ph': 5.9, 'Hardness': 100.0, 'Solids': 1000.0, 'Chloramines': 3.0, 'Sulfate': 200.0, 'Conductivity': 200.0, 'Organic_carbon': 5.0, 'Trihalomethanes': 25.0, 'Turbidity': 2.0}
+2025-01-04 21:12:20,639 - Prediction: not potable
+2025-01-04 21:12:20,639 - Probability breakdown: not potable: 0.77, potable: 0.23
+2025-01-11 23:31:08,038 - User input: {'ph': 0.0, 'Hardness': 100.0, 'Solids': 1000.0, 'Chloramines': 6.2, 'Sulfate': 200.0, 'Conductivity': 200.0, 'Organic_carbon': 5.0, 'Trihalomethanes': 25.0, 'Turbidity': 2.0}
+2025-01-11 23:31:08,045 - Prediction: not potable
+2025-01-11 23:31:08,045 - Probability breakdown: not potable: 0.79, potable: 0.21
+2025-01-11 23:32:23,027 - User input: {'ph': 0.0, 'Hardness': 100.0, 'Solids': 1000.0, 'Chloramines': 3.0, 'Sulfate': 200.0, 'Conductivity': 200.0, 'Organic_carbon': 5.0, 'Trihalomethanes': 25.0, 'Turbidity': 2.0}
+2025-01-11 23:32:23,030 - Prediction: not potable
+2025-01-11 23:32:23,030 - Probability breakdown: not potable: 0.81, potable: 0.19
+2025-01-11 23:32:26,069 - User input: {'ph': 0.0, 'Hardness': 100.0, 'Solids': 1000.0, 'Chloramines': 3.0, 'Sulfate': 200.0, 'Conductivity': 451.6, 'Organic_carbon': 5.0, 'Trihalomethanes': 25.0, 'Turbidity': 2.0}
+2025-01-11 23:32:26,071 - Prediction: not potable
+2025-01-11 23:32:26,071 - Probability breakdown: not potable: 0.84, potable: 0.16
+2025-01-11 23:32:29,316 - User input: {'ph': 0.0, 'Hardness': 100.0, 'Solids': 1000.0, 'Chloramines': 3.0, 'Sulfate': 200.0, 'Conductivity': 451.6, 'Organic_carbon': 9.4, 'Trihalomethanes': 25.0, 'Turbidity': 2.0}
+2025-01-11 23:32:29,317 - Prediction: not potable
+2025-01-11 23:32:29,318 - Probability breakdown: not potable: 0.83, potable: 0.17
+2025-01-11 23:32:55,660 - User input: {'ph': 0.0, 'Hardness': 100.0, 'Solids': 1000.0, 'Chloramines': 3.0, 'Sulfate': 200.0, 'Conductivity': 200.0, 'Organic_carbon': 5.0, 'Trihalomethanes': 25.0, 'Turbidity': 2.0}
+2025-01-11 23:32:55,662 - Prediction: not potable
+2025-01-11 23:32:55,663 - Probability breakdown: not potable: 0.81, potable: 0.19
+2025-01-11 23:33:10,002 - User input: {'ph': 0.0, 'Hardness': 100.0, 'Solids': 1000.0, 'Chloramines': 3.0, 'Sulfate': 200.0, 'Conductivity': 200.0, 'Organic_carbon': 5.0, 'Trihalomethanes': 25.0, 'Turbidity': 2.0}
+2025-01-11 23:33:10,003 - Prediction: not potable
+2025-01-11 23:33:10,004 - Probability breakdown: not potable: 0.81, potable: 0.19
